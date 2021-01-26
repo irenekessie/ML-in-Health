@@ -4,7 +4,7 @@
 
 The following is a list of interesting and important papers discussing various issues of bias and fairness of Machine Learning (ML) methods as used in healthcare applications. Papers are sorted by broad category, and there is a link to each paper. 
 
-You can read a summary literature review of the broad issues [here.](https://github.com/MJAlexander/ML-in-health/blob/main/lit_review.pdf)
+You can read a summary literature review of the broad issues [here.](https://github.com/irenekessie/ML-in-Health/blob/main/lit_review.pdf)
 
 This work will be presented at the [Toronto Data Workshop](https://rohanalexander.com/toronto_data_workshop.html). Slides will be uploaded after the event. 
 
